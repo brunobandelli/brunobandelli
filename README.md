@@ -1,9 +1,10 @@
 ## Welcome to my world, feel free 👋
 
-- 🔭 Hoje trabalho com full-stack
-- 🌱 Formado em Engenharia de Controle e Automação (Ênfase em Programação)
-- 📫 Contate-me no email: brunobandelli@gmail.com
-- 😄 
+- 💻🤖 Workin with full-stack coding and application engineering.
+- 🎓 Graduated in control and automation engineering (emphasis on programming).
+- ⏳🧐 MBA Software Engineering in progress
+- 📫 contact me e-mail: brunobandelli@gmail.com
+
 <div>
   <a href="https://github.com/brunobandelli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobandelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

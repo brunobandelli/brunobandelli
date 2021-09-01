@@ -28,7 +28,7 @@
   <img align="left" height="30" width="30px" src="https://github.com/carlosbandelli/carlosbandelli/blob/main/bulma-plain.svg"/>
   <img align="left" height="30" width="30px" src="https://github.com/carlosbandelli/carlosbandelli/blob/main/express-original-wordmark.svg"/>
   <img align="left" height="30" width="30px" src="https://github.com/carlosbandelli/carlosbandelli/blob/main/jest-plain.svg"/>
-  <img align="left" height="30" width="30px" src="https://github.com/carlosbandelli/carlosbandelli/blob/main/socketio-original-wordmark.svg"/>  
+  <img align="left" height="30" width="45px" src="https://github.com/carlosbandelli/carlosbandelli/blob/main/socketio-original-wordmark.svg"/>  
 </div>
 
 ##

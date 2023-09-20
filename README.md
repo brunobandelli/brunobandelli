@@ -10,15 +10,7 @@
  <a href="https://github.com/brunobandelli">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?sername=brunobandelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobandelli&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
- <div>
-  <a href="https://github.com/brunobandelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobandelli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobandelli&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-  
+</div>  
 
  
 <div style="display: inline_block"><br>
